@@ -1,0 +1,71 @@
+{
+    "title": "Potluck Planner",
+    "path_prefix": "/",
+    "header": {
+        "title": "Lambda Build Week",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Features",
+                "url": "/features",
+                "style": "link"
+            },
+            {
+                "label": "Docs",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Github",
+                "url": "https://github.com/FT-Potluck-Planner-5",
+                "style": "link",
+                "new_window": true
+            },
+            {
+                "label": "Contact Us",
+                "url": "https://github.com/FT-Potluck-Planner-5/Front-End/issues",
+                "style": "primary"
+            },
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
+        "logo": "images/eating.gif"
+    },
+    "footer": {
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Contact Us",
+                "url": "/contact",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/FT-Potluck-Planner-5",
+                "style": "primary",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "link",
+                "new_window": true
+            }
+        ]
+    },
+    "domain": "https://enthusiastic-anemone-b4fbc.netlify.app"
+}
